@@ -5,3 +5,5 @@
 |0009|[Palindrome Number](https://github.com/1JigSaW/LeetCode/blob/master/0009_PalindromeNumber.py.py)|Easy|
 |0013|[Roman to Integer](https://github.com/1JigSaW/LeetCode/blob/master/0013_RomanToInteger.py)|Easy|
 |0014|[Longest Common Prefix](https://github.com/1JigSaW/LeetCode/blob/master/0014_LongestCommonPrefix.py)|Easy|
+|0020|[Valid Parentheses](https://github.com/1JigSaW/LeetCode/blob/master/0020_ValidParentheses.py)|Easy|
+|0021|[Two Sorted List](https://github.com/1JigSaW/LeetCode/blob/master/0021_TwoSortedList.py)|Easy|
