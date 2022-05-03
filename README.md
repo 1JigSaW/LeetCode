@@ -8,3 +8,5 @@
 |0020|[Valid Parentheses](https://github.com/1JigSaW/LeetCode/blob/master/0020_ValidParentheses.py)|Easy|
 |0021|[Two Sorted List](https://github.com/1JigSaW/LeetCode/blob/master/0021_TwoSortedList.py)|Easy|
 |0026|[Remove Duplicates from Sorted Array](https://github.com/1JigSaW/LeetCode/blob/master/0026_RemoveDuplicatesFromSortedArray.py)|Easy|
+|0027|[Remove Element](https://github.com/1JigSaW/LeetCode/blob/master/0027_RemoveElement.py)|Easy|
+|0028|[Implement strStr()](https://github.com/1JigSaW/LeetCode/blob/master/0028_Implement_strStr.py)|Easy|
