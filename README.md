@@ -12,3 +12,5 @@
 |0028|[Implement strStr()](https://github.com/1JigSaW/LeetCode/blob/master/0028_Implement_strStr.py)|Easy|
 |0035|[Search Insert Position](https://github.com/1JigSaW/LeetCode/blob/master/0035_ISearchInsertPosition.py)|Easy|
 |0053|[Maximum Subarray](https://github.com/1JigSaW/LeetCode/blob/master/0053_MaximumSubarray.py)|Easy|
+|0058|[Length of Last Word](https://github.com/1JigSaW/LeetCode/blob/master/0058_LengthOfLastWord.py)|Easy|
+|0217|[Contains Duplicate](https://github.com/1JigSaW/LeetCode/blob/master/0217ContainsDuplicate.py)|Easy|
