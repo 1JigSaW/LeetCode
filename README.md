@@ -14,4 +14,7 @@
 |0053|[Maximum Subarray](https://github.com/1JigSaW/LeetCode/blob/master/0053_MaximumSubarray.py)|Easy|
 |0058|[Length of Last Word](https://github.com/1JigSaW/LeetCode/blob/master/0058_LengthOfLastWord.py)|Easy|
 |0088|[Merge Sorted Array](https://github.com/1JigSaW/LeetCode/blob/master/0088_MergeSortedArray.py)|Easy|
+|0121|[Best Time to Buy and Sell Stock](https://github.com/1JigSaW/LeetCode/blob/master/0121_BestTimeToBuyAndSellStock.py)|Easy|
 |0217|[Contains Duplicate](https://github.com/1JigSaW/LeetCode/blob/master/0217_ContainsDuplicate.py)|Easy|
+|0350|[Intersection of Two Arrays II](https://github.com/1JigSaW/LeetCode/blob/master/0350_IntersectionOfTwoArraysII.py)|Easy|
+
