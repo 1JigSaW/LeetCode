@@ -18,15 +18,19 @@
 |0088|[Merge Sorted Array](https://github.com/1JigSaW/LeetCode/blob/master/0088_MergeSortedArray.py)|Easy|
 |0118|[Pascal's Triangle](https://github.com/1JigSaW/LeetCode/blob/master/0118_PascalTriangle.py)|Easy|
 |0121|[Best Time to Buy and Sell Stock](https://github.com/1JigSaW/LeetCode/blob/master/0121_BestTimeToBuyAndSellStock.py)|Easy|
+|0141|[Linked List Cycle](https://github.com/1JigSaW/LeetCode/blob/master/0141_LinkedListCycle.py)|Easy|
 |0167|[Two Sum II - Input Array Is Sorted](https://github.com/1JigSaW/LeetCode/blob/master/0167_TwoSumII-InputArrayIsSorted.py)|Medium|
 |0189|[Rotate Array](https://github.com/1JigSaW/LeetCode/blob/master/0189_RotateArray.py)|Medium|
+|0203|[Remove Linked List Elements](https://github.com/1JigSaW/LeetCode/blob/master/0203_RemoveLinkedListElements.py)|Easy|
 |0217|[Contains Duplicate](https://github.com/1JigSaW/LeetCode/blob/master/0217_ContainsDuplicate.py)|Easy|
 |0242|[Valid Anagram](https://github.com/1JigSaW/LeetCode/blob/master/0242_ValidAnagram.py)|Easy|
 |0278|[First Bad Version](https://github.com/1JigSaW/LeetCode/blob/master/0278_FirstBadVersion.py)|Easy|
 |0283|[Move Zeros](https://github.com/1JigSaW/LeetCode/blob/master/0283_MoveZeros.py)|Easy|
+|0344|[Reverse String](https://github.com/1JigSaW/LeetCode/blob/master/0344_ReverseString.py)|Easy|
 |0350|[Intersection of Two Arrays II](https://github.com/1JigSaW/LeetCode/blob/master/0350_IntersectionOfTwoArraysII.py)|Easy|
 |0383|[Ransom Note](https://github.com/1JigSaW/LeetCode/blob/master/0383_RansomNote.py)|Easy|
 |0387|[First Unique Character in a String](https://github.com/1JigSaW/LeetCode/blob/master/0387_FirstUniqueCharacterInAString.py)|Easy|
+|0557|[Reverse Words in a String III](https://github.com/1JigSaW/LeetCode/blob/master/0557_ReverseWordsInAStringIII.py)|Easy|
 |0566|[Reshape the Matrix](https://github.com/1JigSaW/LeetCode/blob/master/0566_ReshapeTheMatrix.py)|Easy|
 |0704|[Binary Search](https://github.com/1JigSaW/LeetCode/blob/master/0704_BinarySearch.py)|Easy|
 |0977|[Squares of a Sorted Array](https://github.com/1JigSaW/LeetCode/blob/master/0977_SquaresOfASortedArray.py)|Easy|
