@@ -2,6 +2,7 @@
 | # | Task | Difficulty | 
 |---| ---- | ---------- | 
 |0001|[Two Sum](https://github.com/1JigSaW/LeetCode/blob/master/0001_TwoSum.py)|Easy|
+|0003|[Longest Substring Without Repeating Characters](https://github.com/1JigSaW/LeetCode/blob/master/0003_LongestSubstringWithoutRepeatingCharacters.py)|Medium|
 |0009|[Palindrome Number](https://github.com/1JigSaW/LeetCode/blob/master/0009_PalindromeNumber.py.py)|Easy|
 |0013|[Roman to Integer](https://github.com/1JigSaW/LeetCode/blob/master/0013_RomanToInteger.py)|Easy|
 |0014|[Longest Common Prefix](https://github.com/1JigSaW/LeetCode/blob/master/0014_LongestCommonPrefix.py)|Easy|
@@ -26,6 +27,7 @@
 |0203|[Remove Linked List Elements](https://github.com/1JigSaW/LeetCode/blob/master/0203_RemoveLinkedListElements.py)|Easy|
 |0206|[Reverse Linked List](https://github.com/1JigSaW/LeetCode/blob/master/0206_ReverseLinkedList.py)|Easy|
 |0217|[Contains Duplicate](https://github.com/1JigSaW/LeetCode/blob/master/0217_ContainsDuplicate.py)|Easy|
+|0232|[Implement Queue using Stacks](https://github.com/1JigSaW/LeetCode/blob/master/0232_ImplementQueueUsingStacks.py)|Easy|
 |0242|[Valid Anagram](https://github.com/1JigSaW/LeetCode/blob/master/0242_ValidAnagram.py)|Easy|
 |0278|[First Bad Version](https://github.com/1JigSaW/LeetCode/blob/master/0278_FirstBadVersion.py)|Easy|
 |0283|[Move Zeros](https://github.com/1JigSaW/LeetCode/blob/master/0283_MoveZeros.py)|Easy|
@@ -35,6 +37,7 @@
 |0387|[First Unique Character in a String](https://github.com/1JigSaW/LeetCode/blob/master/0387_FirstUniqueCharacterInAString.py)|Easy|
 |0557|[Reverse Words in a String III](https://github.com/1JigSaW/LeetCode/blob/master/0557_ReverseWordsInAStringIII.py)|Easy|
 |0566|[Reshape the Matrix](https://github.com/1JigSaW/LeetCode/blob/master/0566_ReshapeTheMatrix.py)|Easy|
+|0567|[Permutation in String](https://github.com/1JigSaW/LeetCode/blob/master/0567_PermutationInString.py)|Medium|
 |0704|[Binary Search](https://github.com/1JigSaW/LeetCode/blob/master/0704_BinarySearch.py)|Easy|
 |0876|[Middle of the Linked List](https://github.com/1JigSaW/LeetCode/blob/master/0876_MiddleOfTheLinkedList.py)|Easy|
 |0977|[Squares of a Sorted Array](https://github.com/1JigSaW/LeetCode/blob/master/0977_SquaresOfASortedArray.py)|Easy|
