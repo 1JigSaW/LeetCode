@@ -19,9 +19,12 @@
 |0074|[Search a 2D Matrix](https://github.com/1JigSaW/LeetCode/blob/master/0074_SearchA2DMatrix.py)|Medium|
 |0083|[Remove Duplicates from Sorted List](https://github.com/1JigSaW/LeetCode/blob/master/0083_RemoveDuplicatesFromSortedList.py)|Easy|
 |0088|[Merge Sorted Array](https://github.com/1JigSaW/LeetCode/blob/master/0088_MergeSortedArray.py)|Easy|
+|0094|[Binary Tree Inorder Traversal](https://github.com/1JigSaW/LeetCode/blob/master/0094_BinaryTreeInorderTraversal.py)|Easy|
 |0118|[Pascal's Triangle](https://github.com/1JigSaW/LeetCode/blob/master/0118_PascalTriangle.py)|Easy|
 |0121|[Best Time to Buy and Sell Stock](https://github.com/1JigSaW/LeetCode/blob/master/0121_BestTimeToBuyAndSellStock.py)|Easy|
 |0141|[Linked List Cycle](https://github.com/1JigSaW/LeetCode/blob/master/0141_LinkedListCycle.py)|Easy|
+|0144|[Binary Tree Preorder Traversal](https://github.com/1JigSaW/LeetCode/blob/master/0144_BinaryTreePreorderTraversal.py)|Easy|
+|0145|[Binary Tree Postorder Traversal](https://github.com/1JigSaW/LeetCode/blob/master/0145_BinaryTreePostorderTraversal.py)|Easy|
 |0167|[Two Sum II - Input Array Is Sorted](https://github.com/1JigSaW/LeetCode/blob/master/0167_TwoSumII-InputArrayIsSorted.py)|Medium|
 |0189|[Rotate Array](https://github.com/1JigSaW/LeetCode/blob/master/0189_RotateArray.py)|Medium|
 |0203|[Remove Linked List Elements](https://github.com/1JigSaW/LeetCode/blob/master/0203_RemoveLinkedListElements.py)|Easy|
