@@ -20,6 +20,9 @@
 |0083|[Remove Duplicates from Sorted List](https://github.com/1JigSaW/LeetCode/blob/master/0083_RemoveDuplicatesFromSortedList.py)|Easy|
 |0088|[Merge Sorted Array](https://github.com/1JigSaW/LeetCode/blob/master/0088_MergeSortedArray.py)|Easy|
 |0094|[Binary Tree Inorder Traversal](https://github.com/1JigSaW/LeetCode/blob/master/0094_BinaryTreeInorderTraversal.py)|Easy|
+|0101|[Symmetric Tree](https://github.com/1JigSaW/LeetCode/blob/master/0101_SymmetricTree.py)|Easy|
+|0102|[Binary Tree Level Order Traversal](https://github.com/1JigSaW/LeetCode/blob/master/0102_BinaryTreeLevelOrderTraversal.py)|Medium|
+|0104|[Maximum Depth of Binary Tree](https://github.com/1JigSaW/LeetCode/blob/master/0104_MaximumDepthOfBinaryTree.py)|Easy|
 |0118|[Pascal's Triangle](https://github.com/1JigSaW/LeetCode/blob/master/0118_PascalTriangle.py)|Easy|
 |0121|[Best Time to Buy and Sell Stock](https://github.com/1JigSaW/LeetCode/blob/master/0121_BestTimeToBuyAndSellStock.py)|Easy|
 |0141|[Linked List Cycle](https://github.com/1JigSaW/LeetCode/blob/master/0141_LinkedListCycle.py)|Easy|
