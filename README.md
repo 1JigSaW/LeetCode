@@ -23,6 +23,7 @@
 |0101|[Symmetric Tree](https://github.com/1JigSaW/LeetCode/blob/master/0101_SymmetricTree.py)|Easy|
 |0102|[Binary Tree Level Order Traversal](https://github.com/1JigSaW/LeetCode/blob/master/0102_BinaryTreeLevelOrderTraversal.py)|Medium|
 |0104|[Maximum Depth of Binary Tree](https://github.com/1JigSaW/LeetCode/blob/master/0104_MaximumDepthOfBinaryTree.py)|Easy|
+|0112|[Path Sum](https://github.com/1JigSaW/LeetCode/blob/master/0112_PathSum.py)|Easy|
 |0118|[Pascal's Triangle](https://github.com/1JigSaW/LeetCode/blob/master/0118_PascalTriangle.py)|Easy|
 |0121|[Best Time to Buy and Sell Stock](https://github.com/1JigSaW/LeetCode/blob/master/0121_BestTimeToBuyAndSellStock.py)|Easy|
 |0141|[Linked List Cycle](https://github.com/1JigSaW/LeetCode/blob/master/0141_LinkedListCycle.py)|Easy|
@@ -33,6 +34,7 @@
 |0203|[Remove Linked List Elements](https://github.com/1JigSaW/LeetCode/blob/master/0203_RemoveLinkedListElements.py)|Easy|
 |0206|[Reverse Linked List](https://github.com/1JigSaW/LeetCode/blob/master/0206_ReverseLinkedList.py)|Easy|
 |0217|[Contains Duplicate](https://github.com/1JigSaW/LeetCode/blob/master/0217_ContainsDuplicate.py)|Easy|
+|0226|[Invert Binary Tree](https://github.com/1JigSaW/LeetCode/blob/master/0226_InvertBinaryTree.py)|Easy|
 |0232|[Implement Queue using Stacks](https://github.com/1JigSaW/LeetCode/blob/master/0232_ImplementQueueUsingStacks.py)|Easy|
 |0242|[Valid Anagram](https://github.com/1JigSaW/LeetCode/blob/master/0242_ValidAnagram.py)|Easy|
 |0278|[First Bad Version](https://github.com/1JigSaW/LeetCode/blob/master/0278_FirstBadVersion.py)|Easy|
