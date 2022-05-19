@@ -46,6 +46,8 @@
 |0557|[Reverse Words in a String III](https://github.com/1JigSaW/LeetCode/blob/master/0557_ReverseWordsInAStringIII.py)|Easy|
 |0566|[Reshape the Matrix](https://github.com/1JigSaW/LeetCode/blob/master/0566_ReshapeTheMatrix.py)|Easy|
 |0567|[Permutation in String](https://github.com/1JigSaW/LeetCode/blob/master/0567_PermutationInString.py)|Medium|
+|0695|[Max Area of Island](https://github.com/1JigSaW/LeetCode/blob/master/0695_MaxAreaOfIsland.py)|Medium|
 |0704|[Binary Search](https://github.com/1JigSaW/LeetCode/blob/master/0704_BinarySearch.py)|Easy|
+|0733|[Flood Fill](https://github.com/1JigSaW/LeetCode/blob/master/0733_FloodFill.py)|Easy|
 |0876|[Middle of the Linked List](https://github.com/1JigSaW/LeetCode/blob/master/0876_MiddleOfTheLinkedList.py)|Easy|
 |0977|[Squares of a Sorted Array](https://github.com/1JigSaW/LeetCode/blob/master/0977_SquaresOfASortedArray.py)|Easy|
