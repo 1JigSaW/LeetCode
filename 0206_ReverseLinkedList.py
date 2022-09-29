@@ -5,12 +5,17 @@ class ListNode:
 
 class Solution:
     def reverseList(head):
-        slow = fast = head
-        while fast and fast.next:
-            slow = slow.next
-            fast = fast.next.next
-            print(slow.val, fast.val)
-        return slow
+        if head is None or head.next is None:
+            return head
+        prev = None
+        cur = head
+        while cur:
+            nextnode = cur.next
+            cur.next = prev
+            prev = cur
+            cur = nextnode
+        return prev
+    
 
 A = ListNode(1)
 A.next = ListNode(2)

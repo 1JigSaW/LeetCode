@@ -30,6 +30,8 @@ class Solution(object):
                 tail.next=list2
                 list2=list2.next
             tail=tail.next
+
+            print(tail.val)
         
         return d.next
 
