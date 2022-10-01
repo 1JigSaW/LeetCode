@@ -1,3 +1,5 @@
+from typing import Optional
+
 class ListNode:
     def __init__(self, val=0, next=None):
         self.val = val
@@ -17,4 +19,4 @@ A.next = ListNode(2)
 A.next.next = ListNode(3)
 A.next.next.next = ListNode(4)
 A.next.next.next.next = ListNode(5)
-print(Solution.middleNode(A))
+print(Solution().middleNode(A))
