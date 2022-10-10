@@ -21,8 +21,11 @@ class Solution:
         dfs(sr, sc)
         return image
 
+    def floodFill(image: List[List[int]], sr: int, sc: int, newColor: int) -> List[List[int]]:
+        pass
+
 image = [[1,1,1],[1,1,0],[1,0,1]]
 sr = 1
 sc = 1
 newColor = 2
-print(Solution.floodFill(image, sr, sc, newColor))
+print(Solution().floodFill(image, sr, sc, newColor))

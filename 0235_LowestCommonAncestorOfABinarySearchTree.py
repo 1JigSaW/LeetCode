@@ -12,7 +12,6 @@ class Solution:
             elif p.val > root.val < q.val:
                 root = root.right
             else:
-                print(root.val)
                 return root
 
 
