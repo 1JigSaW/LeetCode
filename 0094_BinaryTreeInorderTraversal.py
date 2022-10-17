@@ -7,18 +7,28 @@ class TreeNode:
         self.right = right
 
 class Solution:
+
+    # iteratively
     def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        res, stack = [], [(root, False)]
-        while stack:
-            node, visited = stack.pop()
-            if node:
-                if visited:
-                    res.append(node.val)
-                else:
-                    stack.append((node, True))
-                    stack.append((node.right, False))
-                    stack.append((node.left, False))
+        stack = []
+        res = []
+        while stack or root:
+            if root:
+                stack.append(root)
+                root = root.left
+
+            else:
+                root = stack.pop()
+                res.append(root.val)
+                root = root.right
+        
         return res
+
+    # recursive
+    def inorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        if not root:
+            return []
+        return self.inorderTraversal(root.left) + [root.val] + self.inorderTraversal(root.right)
 
 root = TreeNode(1)
 root.right = TreeNode(2)

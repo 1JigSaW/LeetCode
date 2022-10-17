@@ -7,15 +7,33 @@ class TreeNode:
         self.right = right
 
 class Solution:
+
+    # iteratively
     def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
-        res, stack = [], [root]
+        if root is None:
+            return
+ 
+        stack = [root]
+        res = []
         while stack:
+     
             node = stack.pop()
-            if node:  
+            res.append(node.val)
+            if node.left:
                 stack.append(node.left)
+     
+            if node.right:
                 stack.append(node.right)
-                res.append(node.val)
-        return res
+
+        return res[::-1]
+
+
+    # recursive
+    def postorderTraversal(self, root: Optional[TreeNode]) -> List[int]:
+        if root is None:
+            return []
+        else:
+            return self.postorderTraversal(root.left) + self.postorderTraversal(root.right) + [root.val]
 
 root = TreeNode(1)
 root.right = TreeNode(2)
