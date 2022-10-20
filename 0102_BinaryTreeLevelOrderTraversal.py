@@ -7,17 +7,40 @@ class TreeNode:
         self.right = right
 
 class Solution:
+
+    # iteratively
     def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
-        if not root:
+        if not root: 
             return []
-        ans, level = [], [root]
-        while level:
-            ans.append([node.val for node in level])
-            temp = []
-            for node in level:
-                temp.extend([node.left, node.right])
-            level = [leaf for leaf in temp if leaf]
-        return ans
+        stack = [root]
+        res = []
+        while len(stack):
+            n = len(stack)
+            level = []
+            for i in range(n):
+                node = stack.pop(0)
+                if node.left: 
+                    stack.append(node.left)
+                if node.right: 
+                    stack.append(node.right)
+                level.append(node.val)
+            res.append(level)
+        return res
+
+
+    # recursively
+    def levelOrder(self, root: Optional[TreeNode]) -> List[List[int]]:
+        res = []
+        def recurse(node, level):
+            if not node: 
+                return
+            if level > len(res): 
+                res.append([])
+            res[level-1].append(node.val)
+            recurse(node.left, level+1)
+            recurse(node.right, level+1)
+        recurse(root, 1)
+        return res
 
 root = TreeNode(3)
 root.right = TreeNode(20)
